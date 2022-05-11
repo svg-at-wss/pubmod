@@ -1,4 +1,4 @@
-package pubmodule
+package pubmod
 
 func Hello() string {
   return "Hello, You!"

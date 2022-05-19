@@ -1,5 +1,8 @@
 package pubmod
 
+import "minify"
+import "secretmod"
+
 func Hello() string {
   return "Hello, You!"
 }

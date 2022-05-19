@@ -17,5 +17,14 @@
     "workflowRules": {
       "enabled": true
     }
-  }
+  },
+  "hostRules": [
+    {
+      "matchHost": "https://github.com/svg-at-wss",
+      "hostType": "go",
+      "encrypted": {
+        "password": "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"
+      }
+    }
+  ]
 }

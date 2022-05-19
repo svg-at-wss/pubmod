@@ -1,2 +1,4 @@
+github.com/bxcodec/faker/v3 v3.8.0 h1:F59Qqnsh0BOtZRC+c4cXoB/VNYDMS3R5mlSpxIap1oU=
+github.com/bxcodec/faker/v3 v3.8.0/go.mod h1:gF31YgnMSMKgkvl+fyEo1xuSMbEuieyqfeslGYFjneM=
 github.com/svg-at-wss/secretmod v0.0.0-20220519163042-f4a6b3bedada h1:XcHpwRYQasRQlUnJCp79V/CxiyP+9rKFw1Ut3PdXQD4=
 github.com/svg-at-wss/secretmod v0.0.0-20220519163042-f4a6b3bedada/go.mod h1:YP+StrmLSEkhMY99cizyGlMUYEgTWSE7lTaLKVn6WZk=
